@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-roundb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Round a numeric value to the nearest multiple of b^n on a linear scale.",
   "license": "Apache-2.0",
   "author": {
