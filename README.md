@@ -114,6 +114,25 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/ceilb`][@stdlib/math/base/special/ceilb]: round a numeric value to the nearest multiple of b^n toward positive infinity.
+-   [`@stdlib/math/base/special/floorb`][@stdlib/math/base/special/floorb]: round a numeric value to the nearest multiple of b^n toward negative infinity.
+-   [`@stdlib/math/base/special/round`][@stdlib/math/base/special/round]: round a numeric value to the nearest integer.
+-   [`@stdlib/math/base/special/roundn`][@stdlib/math/base/special/roundn]: round a numeric value to the nearest multiple of 10^n.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -170,6 +189,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-roundb/main/LICENSE
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/ceilb]: https://github.com/stdlib-js/math-base-special-ceilb
+
+[@stdlib/math/base/special/floorb]: https://github.com/stdlib-js/math-base-special-floorb
+
+[@stdlib/math/base/special/round]: https://github.com/stdlib-js/math-base-special-round
+
+[@stdlib/math/base/special/roundn]: https://github.com/stdlib-js/math-base-special-roundn
+
+<!-- </related-links> -->
 
 </section>
 
