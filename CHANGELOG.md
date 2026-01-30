@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-30)
+## Unreleased (2026-01-30)
 
 <section class="commits">
 
@@ -13,7 +13,7 @@
 <details>
 
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
--   [`6c34fb7`](https://github.com/stdlib-js/stdlib/commit/6c34fb73a0fc81142c09c1002c2e2c64e21dd018) - **bench:** update random value generation [(#6414)](https://github.com/stdlib-js/stdlib/pull/6414) _(by Harsh)_
+-   [`6c34fb7`](https://github.com/stdlib-js/stdlib/commit/6c34fb73a0fc81142c09c1002c2e2c64e21dd018) - **bench:** update random value generation [(#6414)](https://github.com/stdlib-js/stdlib/pull/6414) _(by Harsh Yadav)_
 
 </details>
 
@@ -27,7 +27,7 @@
 
 A total of 2 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 
 </section>
